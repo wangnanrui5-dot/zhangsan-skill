@@ -1,0 +1,9 @@
+{
+  "name": "gender-risk-shield",
+  "version": "1.0.0",
+  "description": "Simulate hyper-sensitive internet audiences to scan any content for gender-related risks. Three modes: risk analysis, counter-narrative defense, and competitor vulnerability attack.",
+  "author": "wangnanrui5-dot",
+  "license": "MIT",
+  "tags": ["risk-management", "content-moderation", "marketing", "gender", "crisis-management", "social-media"],
+  "homepage": "https://github.com/wangnanrui5-dot/zhangsan-skill"
+}
